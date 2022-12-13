@@ -5,7 +5,7 @@ This is a database design and implementation system aimed to manage inventory an
 1. Oracle Database
 2. Oracle SQL Developer
 3. ASP.net
-4.	HTM
+4.	HTML
 5.	CSS
 6.	AWS EC2 Instance
 7. Microsoft Visio
